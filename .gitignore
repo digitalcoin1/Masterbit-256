@@ -1,0 +1,15 @@
+# Windows System Files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Development Junk
+node_modules/
+.vscode/
+.DS_Store
+
+# Masterbit-256 Security (IMPORTANT)
+# Never upload your local testing keys or secret config files
+secrets.json
+*.key
+.env
